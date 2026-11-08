@@ -1,0 +1,5 @@
+Name: Md Jahid
+Role: Second contributor
+
+I have successfuly pulled Student A's change
+Now I am contributing to the project.
