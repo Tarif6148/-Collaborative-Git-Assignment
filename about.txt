@@ -7,3 +7,7 @@ I have created this file to demonstrate
 Git push and pull operations.
 Course: Computer Science and Engineering
 Purpose: Learning Git Push and Pull Operations.
+Both students are working together
+using GitHub collaboration.
+
+
