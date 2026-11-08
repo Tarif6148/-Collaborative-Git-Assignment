@@ -1,4 +1,9 @@
 Project Name: Collaborative Git
-Author : Tarifuzzaman Tarif
+
+Name: Tarifuzzaman Tarif
+Role: First Contributor
+
+I have created this file to demonstrate
+Git push and pull operations.
 Course: Computer Science and Engineering
 Purpose: Learning Git Push and Pull Operations.
